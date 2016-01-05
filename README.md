@@ -1,5 +1,7 @@
 # trblsht
 
+Do robots dream of electric sheep? We just want to make sure that you're a *real* developer who wants to learn and network. 
+
 How to sign up
 ===========
 
