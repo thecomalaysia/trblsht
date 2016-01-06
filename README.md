@@ -18,4 +18,4 @@ Attendee List
 ===============
 First name, Last name
 
-- 
+- Shuk Huay, Koh
