@@ -16,6 +16,4 @@ How to sign up
 
 Attendee List
 ===============
-First name, Last name
-
-- 
+Tze Chin, Tang- 
