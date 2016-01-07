@@ -18,4 +18,5 @@ Attendee List
 ===============
 First name, Last name
 
-- 
+- Jia Chiun, Ker
+
