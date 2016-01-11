@@ -18,4 +18,5 @@ Attendee List
 ===============
 First name, Last name
 
-- 
+- Chee Ming, Chew
+
