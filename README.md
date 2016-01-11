@@ -15,6 +15,5 @@ We just want to make sure that you're a *real* developer who wants to learn and 
 
 ## Attendee List
 
-First name, Last name
+ - Yuen Chi, Lian
 
-- 
