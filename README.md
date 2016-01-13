@@ -15,6 +15,14 @@ We just want to make sure that you're a *real* developer who wants to learn and 
 
 ## Attendee List
 
+Attendee List
+===============
+First name, Last name
+
+- Chin Han, Ang
+- Ryan, Chew
+- Shawn, Cheng
+- Loke, Kok Keong
 - Yuen Chi, Lian
 - Simon Horlick
 - Chan Hui Kent
@@ -37,13 +45,3 @@ We just want to make sure that you're a *real* developer who wants to learn and 
 - Jayaseelan Yezhuaralai
 - Faiz, Mokhtar
 - Sheng, Yeong
-
-Attendee List
-===============
-First name, Last name
-
-- Faiz, Mokhtar 
-- Chin Han, Ang
-- Ryan, Chew
-- Shawn, Cheng
-- Loke, Kok Keong
