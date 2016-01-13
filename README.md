@@ -45,3 +45,8 @@ First name, Last name
 - Jayaseelan Yezhuaralai
 - Faiz, Mokhtar
 - Sheng, Yeong
+- Chin Han, Ang
+- Ryan, Chew
+- Shawn, Cheng
+- Loke, Kok Keong
+- Moses, Nehemiah
