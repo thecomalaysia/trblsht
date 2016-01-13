@@ -35,3 +35,8 @@ We just want to make sure that you're a *real* developer who wants to learn and 
 - Juv, Chan
 - Shuk Huay, Koh
 - Jayaseelan Yezhuaralai
+Attendee List
+===============
+First name, Last name
+
+- Faiz, Mokhtar 
