@@ -38,3 +38,8 @@ We just want to make sure that you're a *real* developer who wants to learn and 
 - Faiz, Mokhtar
 - Chin Han, Ang
 - Ryan, Chew
+Attendee List
+===============
+First name, Last name
+
+- Shawn, Cheng
