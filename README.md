@@ -15,7 +15,7 @@ We just want to make sure that you're a *real* developer who wants to learn and 
 
 ## Attendee List
 
- - Yuen Chi, Lian
+- Yuen Chi, Lian
 - Simon Horlick
 - Chan Hui Kent
 - Nicholas Chan
@@ -35,6 +35,8 @@ We just want to make sure that you're a *real* developer who wants to learn and 
 - Juv, Chan
 - Shuk Huay, Koh
 - Jayaseelan Yezhuaralai
+- Sheng, Yeong
+
 Attendee List
 ===============
 First name, Last name
