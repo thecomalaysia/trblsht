@@ -40,3 +40,4 @@ Attendee List
 First name, Last name
 
 - Faiz, Mokhtar 
+- Chin Han, Ang
