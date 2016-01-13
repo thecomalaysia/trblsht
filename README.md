@@ -23,3 +23,4 @@ First name, Last name
 - Nicholas Chan
 - Chin Chee, Ho
 - Ei-Vonne, Kwan
+- Wei Jun, Chai
