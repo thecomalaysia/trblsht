@@ -20,3 +20,4 @@ First name, Last name
 
 - Simon Horlick
 - Chan Hui Kent
+- Chin Chee, Ho
