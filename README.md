@@ -16,12 +16,10 @@ How to sign up
 
 Attendee List
 ===============
-<<<<<<< HEAD
-=======
-Ei-Vonne, Kwan
->>>>>>> d1acac8a1b17337af5149ce09bb67e36c288a36e
-
 First name, Last name
+
 - Simon Horlick
 - Chan Hui Kent
 - Nicholas Chan
+- Chin Chee, Ho
+- Ei-Vonne, Kwan
