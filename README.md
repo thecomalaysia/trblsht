@@ -18,6 +18,7 @@ Attendee List
 ===============
 First name, Last name
 
+<<<<<<< HEAD
 - Simon Horlick
 - Chan Hui Kent
 - Nicholas Chan
@@ -25,3 +26,4 @@ First name, Last name
 - Ei-Vonne, Kwan
 - Wei Jun, Chai
 - Ebrahim Alhussaini
+- Luqman Rom
