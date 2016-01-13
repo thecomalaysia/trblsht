@@ -30,3 +30,4 @@ First name, Last name
 - Khairul Nashpu, Sarfuddin
 - Estelle Chang
 - Imran Hashim
+- Sulaiman, Sudirman
