@@ -43,3 +43,5 @@ Attendee List
 First name, Last name
 
 - Shawn, Cheng
+Loke, Kok Keong
+- 
