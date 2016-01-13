@@ -32,3 +32,9 @@ We just want to make sure that you're a *real* developer who wants to learn and 
 - Sulaiman, Sudirman
 - Daliso, Ngoma
 - Harvey Wong
+Attendee List
+===============
+First name, Last name
+
+- Chee Ming, Chew
+
