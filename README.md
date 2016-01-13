@@ -17,18 +17,6 @@ How to sign up
 Attendee List
 ===============
 First name, Last name
-
-
-
-
-
-
-
-
-
-
-
-
 - Simon Horlick
 - Chan Hui Kent
 - Nicholas Chan
